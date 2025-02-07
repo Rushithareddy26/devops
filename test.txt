@@ -1,0 +1,8 @@
+hi welcome to github
+
+this is a master file do not change the codes in this but try to add some codes from other branches
+
+
+
+
+This is rushitha added some content in the branch name of rushi
